@@ -1,0 +1,53 @@
+﻿{
+  "gridSize": {
+    "X": 5,
+    "Y": 5
+  },
+  "Obstacles": [
+    {
+      "Place": {
+        "X": 4,
+        "Y": 0
+      },
+      "ObstacleType": 2
+    },
+    {
+      "Place": {
+        "X": 0,
+        "Y": 4
+      },
+      "ObstacleType": 1
+    }
+  ],
+  "TargetNeighbours": [
+    {
+      "X": 0,
+      "Y": 0
+    },
+    {
+      "X": 1,
+      "Y": 1
+    },
+    {
+      "X": 3,
+      "Y": 1
+    },
+    {
+      "X": 1,
+      "Y": 3
+    },
+    {
+      "X": 3,
+      "Y": 3
+    },
+    {
+      "X": 4,
+      "Y": 4
+    }
+  ],
+  "PlaceUnit": {
+    "X": 2,
+    "Y": 2
+  },
+  "UnitType": 1
+}

@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=663ad1da_002D3d83_002D44a6_002D84d9_002D05cc5ae53aa0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestCalculator" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::75FDF738-89D2-823A-1CF2-E9F8D485B4CC::.NETFramework,Version=v4.7.1::TestCalculator&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::75FDF738-89D2-823A-1CF2-E9F8D485B4CC::.NETFramework,Version=v4.7.1::TestMatrix&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::75FDF738-89D2-823A-1CF2-E9F8D485B4CC::.NETFramework,Version=v4.7.1::TestPathFinding.TestNeighbourFactory&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d28d91b_002D8ef3_002D4a02_002D9629_002D73de0aca84d2/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestPathFindingSimplePasses" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::75FDF738-89D2-823A-1CF2-E9F8D485B4CC::.NETFramework,Version=v4.7.1::TestPathFinding.TestPathFindingSimplePasses&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::75FDF738-89D2-823A-1CF2-E9F8D485B4CC::.NETFramework,Version=v4.7.1::TestPathFinding.TestNeighbourFactory&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e22c84f5_002Dc540_002D4439_002D9491_002D0e1b2078b49f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestNeighbourFactory" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Project Location="D:\UnityProjects\OMGTE" Presentation="&amp;lt;Tests&amp;gt;" /&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
